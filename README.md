@@ -45,9 +45,9 @@ Web2 <> Web3
 - Tasks Queues
 - Pub/Sub
 - Aggregation
-- Automati sharding
+- Automatic sharding
 - Extendable AI(ChatGPT + MJ) landing generation
-- Design System
+- Design System / Figma integration
 - Charts
   - Trading view
   - Any other chart lib
