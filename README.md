@@ -53,4 +53,4 @@ Integrations
   - All listed features dev preview
 - Version 1.0.0 - 3 month 
   - Everything is tested
-  - Bao
+  - Bao Cloud is running
